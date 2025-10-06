@@ -1,2 +1,2 @@
 # Ecommerce-Clone
-A responsive e-commerce website Clone built using HTML&amp; CSS.
+A simple e-commerce website clone built ysing HTML&CSS for learning and practicing purposes.
